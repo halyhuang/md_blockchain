@@ -1,0 +1,38 @@
+1824 [main] INFO  c.m.b.MdBlockchainApplicationTests - Starting MdBlockchainApplicationTests on ali-186590d315ad with PID 76302 (started by halyhuang in /Users/halyhuang/study/blockchain/md_blockchain)
+1857 [main] INFO  c.m.b.MdBlockchainApplicationTests - No active profile set, falling back to default profiles: default
+1932 [main] INFO  o.s.w.c.s.GenericWebApplicationContext - Refreshing org.springframework.web.context.support.GenericWebApplicationContext@3e2055d6: startup date [Wed Dec 18 02:46:27 CST 2019]; root of context hierarchy
+2595 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.6.Final
+5539 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$2b9f8b89] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+6640 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Building JPA container EntityManagerFactory for persistence unit 'default'
+6683 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+6878 [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.0.12.Final}
+6881 [main] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+6884 [main] INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+6980 [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+7211 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: com.mindata.blockchain.core.sqlite.config.SQLiteDialect
+7224 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: com.mindata.blockchain.core.sqlite.config.SQLiteDialect
+7278 [main] INFO  o.h.e.j.e.i.LobCreatorBuilderImpl - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [2] less than 4
+8224 [main] INFO  o.h.tool.hbm2ddl.SchemaUpdate - HHH000228: Running hbm2ddl schema update
+8367 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+10120 [main] ERROR c.m.b.socket.client.ClientStarter - 请先启动md_blockchain_manager服务，并配置appId等属性，只有合法联盟链成员才能启动该服务
+1524 [main] INFO  c.m.b.MdBlockchainApplicationTests - Starting MdBlockchainApplicationTests on ali-186590d315ad with PID 76370 (started by halyhuang in /Users/halyhuang/study/blockchain/md_blockchain)
+1551 [main] INFO  c.m.b.MdBlockchainApplicationTests - No active profile set, falling back to default profiles: default
+1636 [main] INFO  o.s.w.c.s.GenericWebApplicationContext - Refreshing org.springframework.web.context.support.GenericWebApplicationContext@3e2055d6: startup date [Wed Dec 18 02:47:03 CST 2019]; root of context hierarchy
+2084 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.6.Final
+4091 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$4e9c3074] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+4835 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Building JPA container EntityManagerFactory for persistence unit 'default'
+4868 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+4999 [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.0.12.Final}
+5002 [main] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+5004 [main] INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+5074 [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+5262 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: com.mindata.blockchain.core.sqlite.config.SQLiteDialect
+5274 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: com.mindata.blockchain.core.sqlite.config.SQLiteDialect
+5317 [main] INFO  o.h.e.j.e.i.LobCreatorBuilderImpl - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [2] less than 4
+6172 [main] INFO  o.h.tool.hbm2ddl.SchemaUpdate - HHH000228: Running hbm2ddl schema update
+6362 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+13557 [main] ERROR c.m.b.socket.client.ClientStarter - 请先启动md_blockchain_manager服务，并配置appId等属性，只有合法联盟链成员才能启动该服务
